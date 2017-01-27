@@ -1,7 +1,7 @@
 {
   "name": "sequelize-fts",
   "description": "Fork of sequelize with support for full-text search operators",
-  "version": "3.29.1",
+  "version": "3.29.2",
   "author": "Jury Razumau <jurazumau@gmail.com>",
   "contributors": [
     {
